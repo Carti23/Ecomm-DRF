@@ -13,6 +13,10 @@ pip install django-rest-knox
 pip install django-filter
 pip install django-rest-swagger
 ```
+
+## Add to the INSTALED_APPS (in settings.py)
+![carbon (1)](https://user-images.githubusercontent.com/94143966/155390453-33fa97ad-6242-47c8-91ab-2d7e39eaf65d.png)
+
 ## How to use
 Download a zip file, or just clone the repositry :)
 
