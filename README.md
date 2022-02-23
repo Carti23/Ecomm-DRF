@@ -17,3 +17,4 @@ Download a zip file, or just clone the repositry :)
 ```bash
 instagram - https://www.instagram.com/r.okhrimets/
 ```
+https://img.shields.io/github/commit-activity/m/Carti23/Ecomm-DRF
