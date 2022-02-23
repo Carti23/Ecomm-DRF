@@ -12,3 +12,8 @@ pip install django-rest-swagger
 ```
 ## How to use
 Download a zip file, or just clone the repositry :)
+
+## My soicial link
+```bash
+instagram - https://www.instagram.com/r.okhrimets/
+```
