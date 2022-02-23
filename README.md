@@ -7,6 +7,6 @@ backend for the ecommerce
 3. if u want to use admin panel: python manage.py createsuperuser
 
 # Packages to install
----bash
+```bash
 pip install django
-
+```
