@@ -22,8 +22,11 @@ pip install django-rest-swagger
 ![carbon](https://user-images.githubusercontent.com/94143966/155505542-2dd4a53c-7b33-4134-ac14-aee140b1c69b.png)
 
 ## How to use
-Download a zip file, or just clone the repositry :)
-
+Afte all set up, please write to the console
+```bash
+pyton or python3 (depent of your system) manage.py makemigrations
+python or python3 (depent of your system) manage.py migrate
+```
 ## My soicial link
 ```bash
 instagram - https://www.instagram.com/r.okhrimets/
