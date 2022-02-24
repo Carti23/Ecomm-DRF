@@ -24,8 +24,8 @@ pip install django-rest-swagger
 ## How to use
 Afte all set up, please write to the console
 ```bash
-pyton or python3 (depent of your system) manage.py makemigrations
-python or python3 (depent of your system) manage.py migrate
+pyton or python3 (depends of your system) manage.py makemigrations
+python or python3 (depends of your system) manage.py migrate
 ```
 ## My soicial link
 ```bash
