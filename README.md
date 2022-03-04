@@ -14,8 +14,6 @@ pip install django-filter
 pip install django-rest-swagger
 ```
 
-## Add to the INSTALED_APPS (in settings.py)
-![carbon (1)](https://user-images.githubusercontent.com/94143966/155390453-33fa97ad-6242-47c8-91ab-2d7e39eaf65d.png)
 
 ## Please copy this code and paste to the settings.py(DATABSES) :)
 
